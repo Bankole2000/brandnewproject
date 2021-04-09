@@ -37,3 +37,8 @@ Push to remote repository
 git push -u <name> <branch>
 ```
 
+Creating branches 
+```sh
+git branch <newbranchname> # creates a new branch on the repo
+git checkout <branchname> # this switches the branch in the working directory
+```
