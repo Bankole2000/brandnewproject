@@ -29,7 +29,7 @@ git branch -a # show all branches
 
 Add a remote repository 
 ```sh
-git add remote <name> <url>
+git remote add <name> <url>
 ```
 
 Push to remote repository
